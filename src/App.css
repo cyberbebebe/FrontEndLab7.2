@@ -1,0 +1,34 @@
+.app {
+  text-align: center;
+}
+
+.goods-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.goods-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 200px;
+  padding: 10px;
+  text-align: center;
+}
+
+.goods-card img {
+  width: 150px;
+  height: 150px;
+  object-fit:fill; 
+  border-radius: 8px;
+}
+
+.goods-card h3 {
+  margin: 10px 0;
+}
+
+.goods-card p {
+  margin: 5px 0;
+}
