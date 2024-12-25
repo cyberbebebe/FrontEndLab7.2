@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FrontEndLab7.2/static/css/main.6b829d6f.css",
+    "main.js": "/FrontEndLab7.2/static/js/main.badee765.js",
+    "static/js/453.ff3aee6d.chunk.js": "/FrontEndLab7.2/static/js/453.ff3aee6d.chunk.js",
+    "static/media/peach.png": "/FrontEndLab7.2/static/media/peach.df60f9b0763c44a705ef.png",
+    "static/media/banana.png": "/FrontEndLab7.2/static/media/banana.486f8338e22ba56279f6.png",
+    "static/media/cherry.png": "/FrontEndLab7.2/static/media/cherry.c44b9fab3d74c9f080d9.png",
+    "static/media/pear.png": "/FrontEndLab7.2/static/media/pear.1aec58b8bcf0a88cf673.png",
+    "static/media/apple.png": "/FrontEndLab7.2/static/media/apple.10c1d91069db12bee5ee.png",
+    "static/media/wine.png": "/FrontEndLab7.2/static/media/wine.a357cdf0cfcfb3fc69af.png",
+    "index.html": "/FrontEndLab7.2/index.html",
+    "main.6b829d6f.css.map": "/FrontEndLab7.2/static/css/main.6b829d6f.css.map",
+    "main.badee765.js.map": "/FrontEndLab7.2/static/js/main.badee765.js.map",
+    "453.ff3aee6d.chunk.js.map": "/FrontEndLab7.2/static/js/453.ff3aee6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b829d6f.css",
+    "static/js/main.badee765.js"
+  ]
+}
